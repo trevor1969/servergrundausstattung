@@ -6,7 +6,7 @@ Es handelt sich um Linux-Bash-Scripts.
 
 Am besten mit BASH aufrufen.
 
-== Voraussetzungen ==
+## Voraussetzungen ##
 * Linux-System
 * Konsole "bash"
 * 7z

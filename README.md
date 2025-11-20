@@ -75,7 +75,6 @@ Dieses Repository enthält drei Bash-Scripte zur **Protokollierung**, **Komprimi
 
 ---
 **Lizenz:** [MIT](LICENSE) 
-```
 
 ---
 ### Anpassungsmöglichkeiten
